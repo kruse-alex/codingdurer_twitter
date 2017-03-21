@@ -5,10 +5,10 @@ library(ggplot2)
 library(tidytext)
 
 # do auth
-consumer_key <- "VM4xSXS6Hc4jwOpSGRTXPZKNd"
-consumer_secret <- "vAaSYQO9OPbpNr6oLj1FyhJPPAfJbdvY2X078ZmtQA3ZKM4gpw"
-access_token <- "1662924312-8AmUosuXXHKjp81avS9F1DZ6tPLBxhRIKvihznB"
-access_secret <- "nMWfBcHQFvi6donVXPaexSTYROMS6ip3Zrnn9kzlxo5Z8"
+consumer_key <- ""
+consumer_secret <- ""
+access_token <- ""
+access_secret <- ""
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
